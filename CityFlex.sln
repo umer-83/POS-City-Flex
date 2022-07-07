@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30309.148
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CityFlex", "CityFlex\CityFlex.csproj", "{1F2D4E76-712E-4AE9-8B4E-85CFE2D2CDF6}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1F2D4E76-712E-4AE9-8B4E-85CFE2D2CDF6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1F2D4E76-712E-4AE9-8B4E-85CFE2D2CDF6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1F2D4E76-712E-4AE9-8B4E-85CFE2D2CDF6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1F2D4E76-712E-4AE9-8B4E-85CFE2D2CDF6}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E1769FFD-E8B5-44B6-BCB2-0779413505FA}
+	EndGlobalSection
+EndGlobal
